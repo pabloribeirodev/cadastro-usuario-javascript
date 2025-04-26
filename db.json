@@ -1,0 +1,12 @@
+{
+  "usuario": [
+    {
+      "id": "c8fb",
+      "nome": "PABLO RIBEIRO",
+      "data": "2025-04-03",
+      "email": "pablobronzeado@hotmail.com",
+      "senha": "123",
+      "genero": "masculino"
+    }
+  ]
+}
